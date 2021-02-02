@@ -10,6 +10,5 @@ namespace Introduction_To_mvc.Models
        public int Id { get; set; }
        public String Name { get; set; }
        public double Price { get; set; }
-
     }
 }

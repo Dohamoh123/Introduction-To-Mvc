@@ -9,7 +9,6 @@ namespace Introduction_To_mvc.Controllers
     public class CarsController : Controller
     {
         // GET: Cars
-
         [Route("Cars/Index")]
         public ContentResult Index ()
         {

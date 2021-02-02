@@ -16,6 +16,7 @@ namespace Introduction_To_mvc.Controllers
                 Name = "Lenovo LinkPad",
                 Price = 500
             };
+
             return View(MyComputer);
         }
     }
