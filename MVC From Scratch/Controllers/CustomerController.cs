@@ -30,5 +30,14 @@ namespace MVC_From_Scratch.Controllers
             }
             return View(cust);
         }
+        public ActionResult Index()
+        {
+            return View();
+        }
+        public ActionResult GetList()
+        {
+            return View();
+        }
+
     }
 }
