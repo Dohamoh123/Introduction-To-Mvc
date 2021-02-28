@@ -183,7 +183,6 @@
     <Content Include="Views\Customer\Create.cshtml" />
     <Content Include="Views\Shared\_header.cshtml" />
     <Content Include="Views\Shared\_footer.cshtml" />
-    <Content Include="Views\Shared\_MainLayout.cshtml" />
     <Content Include="vendor\jquery\jquery.min.map" />
     <Content Include="vendor\jquery\jquery.slim.min.map" />
     <Content Include="vendor\bootstrap\css\bootstrap-grid.css.map" />
@@ -198,6 +197,8 @@
     <Content Include="vendor\bootstrap\js\bootstrap.min.js.map" />
     <Content Include="Views\Customer\Index.cshtml" />
     <Content Include="Views\Customer\GetList.cshtml" />
+    <Content Include="Views\Shared\_MainLayout.cshtml" />
+    <Content Include="Views\Customer\DisplayList.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
